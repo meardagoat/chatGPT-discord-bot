@@ -36,7 +36,7 @@ def send_message(channel_id, message):
 # Fonction exécutée avant la première requête HTTP vers l'application Flask
 def run_bot():
     # Démarrage du bot Discord en utilisant le token du bot
-    asyncio.run(bot.start(''))
+    asyncio.run(bot.start('discord_bot_token'))
 
 
 # Exécuter la fonction run_bot avant la première requête HTTP
