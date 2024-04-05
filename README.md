@@ -127,7 +127,7 @@ If you possess an OpenAI Plus account, utilizing the OpenAI provider is recommen
 * Set the value of `LOGGING` in the `.env` to False
 
 ------
->  [**中文設置教學**](https://zero6992.me/2023/03/08/chatGPT-discord-bot-chinese/)
+>  [**中文設置教學**](https://github.com/meardagoat/bot-for-wordpress)
 ------
 ## Commands
 
